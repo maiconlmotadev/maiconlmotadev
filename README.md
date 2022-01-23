@@ -1,11 +1,12 @@
-### Olá sou o Maicon Mota ✌️<br>
-<br>
-<br>
+
+### Muito bem vindo aqui!! Sou o Maicon Mota ✌️<br>
+#
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-mota934496287/)
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maicon__mota/)
 
+# 
 
 ![Maicon Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=maiconlmotadev&show_icons=true&theme=dark)
 
@@ -36,6 +37,6 @@ Entusiasta e estudioso apaixonado por tecnologia, sistemas e desenvolvimento. Go
 Busco melhorar a vida das pessoas através da tecnologia inteligente e intuitiva. Aprendendo constantemente com o fluxo, com flexibilidade e dinamismo buscando sempre o novo e a melhor tecnologia, afim de impactar positivamente as pessoas, dando a estas uma experiência usual, agradável e moderna.
 Acredito de verdade que “a tecnologia alegra e facilita a vida das pessoas, tendo o poder de tornar suas vidas mais felizes”.
 
-
+#
 ##  
-### maiconlmotadev@hotmail.com  
+### maiconlmotadev@hotmail.com 
