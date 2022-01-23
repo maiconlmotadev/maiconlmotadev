@@ -1,7 +1,6 @@
-
-
-### Olá sou o Maicon Mota ✌️
-
+### Olá sou o Maicon Mota ✌️<br>
+<br>
+<br>
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-mota934496287/)
 
@@ -29,4 +28,14 @@
     <img align="center" alt="microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
     <img align="center" alt="mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 
-</div> 
+</div> <br>
+
+#
+
+Entusiasta e estudioso apaixonado por tecnologia, sistemas e desenvolvimento. Gosto de desafios, entender as razões e o porque do problema, pensar em uma solução sustentável e escalável.
+Busco melhorar a vida das pessoas através da tecnologia inteligente e intuitiva. Aprendendo constantemente com o fluxo, com flexibilidade e dinamismo buscando sempre o novo e a melhor tecnologia, afim de impactar positivamente as pessoas, dando a estas uma experiência usual, agradável e moderna.
+Acredito de verdade que “a tecnologia alegra e facilita a vida das pessoas, tendo o poder de tornar suas vidas mais felizes”.
+
+
+##  
+### maiconlmotadev@hotmail.com  
