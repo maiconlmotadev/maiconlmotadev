@@ -15,7 +15,7 @@
 
 <div style= "display: inline_block"><br/>
     <img align="center" alt="html5" src="   https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-    <img align="center" alt="html5" src="   https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+    <img align="center" alt="xcode" src="   https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
     <img align="center" alt="html5" src="		https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
     <img align="center" alt="html5" src="		https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
     <img align="center" alt="html5" src="		https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
