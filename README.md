@@ -1,5 +1,4 @@
 
-
 ### Muito bem vindo aqui!! Sou o Maicon Mota  ✌️<br>
 #
 
@@ -29,11 +28,6 @@
     <img align="center" alt="mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
 
 </div> <br>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 #
 
